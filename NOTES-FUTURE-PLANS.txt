@@ -1,0 +1,52 @@
+
+FUTURE PLANS:
+
+Implement a system to securely log in users and manage their accounts. 
+
+Add options to filter to easily narrow down and organize the interaction data. 
+
+Include charts or graphs to illustrate the interaction data. 
+
+Improve responsiveness of application.
+
+Add a search feature by suggesting relevant sectors or dates as users type. 
+
+Create relevant pages (Home, About, Contact etc.) , add a footer and company information including a logo.
+
+
+
+NOTES:
+
+Get interaction data between clients and financial research analysts.
+
+Interactions are categorized into sectors
+
+Build a web application to display the percentages of interactions for each sector.
+
+Use JS Node.JS and React.JS
+
+Utilize a favorite framework (React) to develop the application.
+Fetch the interaction data from the provided API endpoint.
+
+
+
+Set up React
+ant design - structure and spinner
+
+
+fetch data from the API endpoint when the component mounts.
+fetchData function to perform the API request and update the state with the fetched data.
+
+Create a table to display the interaction data.
+
+Calculate the total number of interactions.
+
+Count the interactions for each sector and calculate the percentage.
+
+Create table data based on the calculated values.
+
+
+
+Test and upload  
+
+
